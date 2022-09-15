@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InvestorZION
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Web development with Django
-- 💞️ I’m looking to collaborate on web projects
+- 🌱 I’m working as a Data Scientist
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me omezirizion@gmail.com
 
 <!---
